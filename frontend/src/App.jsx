@@ -6,6 +6,7 @@ import Booking from "./pages/Booking";
 import Favourites from "./pages/Favourites";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import "./index.css";
 
 export default function App() {
   return (
